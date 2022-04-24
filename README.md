@@ -1,2 +1,2 @@
 # New-Omnifood
-[Link] (https://new-omnifood-bhanu.netlify.app/)
+[Link] (https://omnifood-bhanu.netlify.app/)
